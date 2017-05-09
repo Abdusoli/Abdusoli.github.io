@@ -42,14 +42,7 @@
 			margin-left: 50px;
 		}
 
-		/*#main {
-			transition: margin-left .5s;
-			padding: 16px;
-			width: 100%;
-			height:100%;
-			background-color: #FBE9BB;
-			
-		}*/
+		
 
 
 button.accordion {
